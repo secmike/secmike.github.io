@@ -1,6 +1,6 @@
 ---
 title: MichaelSec Launch
-date: 2024-06-09 11:51:00
+date: 2024-06-09
 categories: [News, Announcement]
 tags: [announcement]
 ---
